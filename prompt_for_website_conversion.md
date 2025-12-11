@@ -3,14 +3,6 @@
 ## Context
 I have a markdown document (`square_homepage_suggestions_guide.md`) that contains data analysis and recommendations for Square Support Center pre-canned suggestions. I need you to convert this into a beautiful, interactive Next.js website using shadcn/ui components.
 
-## Requirements
-
-### Tech Stack
-- **Framework:** Next.js 14+ (App Router)
-- **UI Library:** shadcn/ui components
-- **Styling:** Tailwind CSS
-- **Typography:** Use proper heading hierarchy and readable font sizes
-
 ### Design Guidelines
 
 #### 1. **Layout & Structure**
