@@ -8,7 +8,7 @@ Based on 90 days of search data (88,177+ searches from 43,050 unique users), we'
 **Analysis Period:** September 12 - December 11, 2025 (90 days)  
 **Coverage:** These 12 suggestions represent **52,847 searches (60% of analyzed volume)**
 
-##  Data Evidence: Top 50 Actual Search Queries
+## Data Evidence: Top 50 Actual Search Queries
 
 These are the **real queries** from Support Center search logs. Our 12 suggestions are built directly from this data.
 
@@ -74,7 +74,7 @@ These are the **real queries** from Support Center search logs. Our 12 suggestio
 
 ---
 
-##  How Our 12 Suggestions Map to Real Data
+## How Our 12 Suggestions Map to Real Data
 
 Each suggestion directly addresses high-volume queries from the data above:
 
@@ -97,7 +97,7 @@ Each suggestion directly addresses high-volume queries from the data above:
 
 ---
 
-##  Category Breakdown from Actual Data
+## Category Breakdown from Actual Data
 
 ### **Onboarding Queries (30.4% of volume)**
 | Query | Searches | Users | CTR |
@@ -164,7 +164,7 @@ Each suggestion directly addresses high-volume queries from the data above:
 
 ---
 
-##  Notable Queries NOT Included (And Why)
+## Notable Queries NOT Included (And Why)
 
 To maintain focus on onboarding and high-impact features, these high-volume queries were **intentionally excluded**:
 
@@ -185,7 +185,7 @@ To maintain focus on onboarding and high-impact features, these high-volume quer
 
 ---
 
-##  Coverage Analysis: What We're Capturing
+## Coverage Analysis: What We're Capturing
 
 ```
 Total Analyzed Volume: 88,177 searches
@@ -214,11 +214,11 @@ Our 12 suggestions focus on the **highest-impact onboarding and feature discover
 
 ---
 
-##  The 12 Pre-Canned Suggestions for LLM Prompting
+## The 12 Pre-Canned Suggestions for LLM Prompting
 
 ### **TIER 1: Critical Onboarding** (Place at top of homepage)
 
-#### 1 Getting Started with Square
+#### 1. Getting Started with Square
 
 **User-Facing Button:**
 ```
@@ -241,7 +241,7 @@ Context: User has never used Square before and needs comprehensive getting start
 
 ---
 
-#### 2 Account Setup
+#### 2. Account Setup
 
 **User-Facing Button:**
 ```
@@ -264,7 +264,7 @@ Context: User needs step-by-step account setup instructions including business d
 
 ---
 
-#### 3 First Payment
+#### 3. First Payment
 
 **User-Facing Button:**
 ```
@@ -287,7 +287,7 @@ Context: New merchant ready to process their first transaction, needs simple ste
 
 ---
 
-#### 4 Bank Account Linking
+#### 4. Bank Account Linking
 
 **User-Facing Button:**
 ```
@@ -312,7 +312,7 @@ Context: User needs to connect bank account to receive deposits, essential onboa
 
 ### **TIER 2: Hardware & Modern Payments** (Second section)
 
-#### 5 Tap to Pay
+#### 5. Tap to Pay
 
 **User-Facing Button:**
 ```
@@ -335,7 +335,7 @@ Context: User wants to enable Tap to Pay feature on iPhone for contactless payme
 
 ---
 
-#### 6 Square Reader Setup
+#### 6. Square Reader Setup
 
 **User-Facing Button:**
 ```
@@ -358,7 +358,7 @@ Context: User received Square Reader hardware and needs initial setup and pairin
 
 ---
 
-#### 7 QR Code Payments
+#### 7. QR Code Payments
 
 **User-Facing Button:**
 ```
@@ -383,7 +383,7 @@ Context: User wants to enable QR code payment acceptance for contactless transac
 
 ### **TIER 3: High-Value Features** (Third section)
 
-#### 8 Invoicing
+#### 8. Invoicing
 
 **User-Facing Button:**
 ```
@@ -406,7 +406,7 @@ Context: Service-based business needs to create and send first invoice to custom
 
 ---
 
-#### 9 Dashboard Navigation
+#### 9. Dashboard Navigation
 
 **User-Facing Button:**
 ```
@@ -454,7 +454,7 @@ Context: User needs transparent information about Square's fee structure and pri
 
 ### **TIER 4: Additional Support** (Fourth section or expandable)
 
-#### 11 Device Setup (Generic)
+#### 11. Device Setup (Generic)
 
 **User-Facing Button:**
 ```
@@ -477,7 +477,7 @@ Context: User has Square hardware (reader, terminal, stand) and needs setup guid
 
 ---
 
-#### 12 Payment Links
+#### 12. Payment Links
 
 **User-Facing Button:**
 ```
@@ -500,7 +500,7 @@ Context: User needs to create and share payment links for remote payment collect
 
 ---
 
-##  Data Sources & Methodology
+## Data Sources & Methodology
 
 **Analysis Based On:**
 - **Database:** `APP_SUPPORT.SUPPORT_CENTER` (Snowflake)

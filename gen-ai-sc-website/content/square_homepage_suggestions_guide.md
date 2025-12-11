@@ -1,4 +1,4 @@
-# 🎯 Square Support Center: Homepage Suggestion Implementation Guide
+# 🎯 SC Pre-canned Suggestions Data
 
 ## Executive Summary
 
